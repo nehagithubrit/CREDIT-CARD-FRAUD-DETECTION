@@ -54,4 +54,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Neha Shetty**  
 Final Year Student | Information Science and Engineering | CIT  
-🔗 [GitHub](https://github.com/nehagithubrit) • [LinkedIn](https://linkedin.com/nehashetty225)
+🔗 [GitHub](https://github.com/nehagithubrit) • [LinkedIn](www.linkedin.com/in/nehashetty225)
