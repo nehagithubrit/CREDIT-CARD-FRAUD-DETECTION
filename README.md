@@ -9,7 +9,7 @@ This project leverages statistical analysis, ML classification models, and data 
 ## 📌 Features
 
 - 🕵️‍♀️ **Fraud Detection Using ML**: Detects abnormal credit card transactions using machine learning models like Logistic Regression, Random Forest, XGBoost, etc.
-- 📊 **Highly Imbalanced Data Handling**: Employs techniques like **SMOTE**, **undersampling**, and **cost-sensitive learning** to improve accuracy on rare fraud cases.
+- 📊 **Highly Imbalanced Data Handling**: Employs techniques like **OverSampling**, **undersampling**, and **cost-sensitive learning** to improve accuracy on rare fraud cases.
 - 🧮 **Explainable AI**: Uses SHAP or feature importance plots to explain model decisions for transparency and trust.
 - 📉 **ROC-AUC Optimized**: Evaluates model using precision-recall curves, F1-score, and AUC-ROC metrics to account for data imbalance.
 - 💾 **Clean Preprocessing Pipeline**: Includes missing value handling, scaling, and feature engineering.
@@ -23,7 +23,6 @@ This project leverages statistical analysis, ML classification models, and data 
 - **Python**, **NumPy**, **Pandas** – for data manipulation and preprocessing  
 - **Scikit-learn**, **XGBoost** – for model building and evaluation  
 - **Matplotlib**, **Seaborn** – for visualizations  
-- **SMOTE** from `imblearn` – for synthetic minority oversampling  
 - **Streamlit/Flask** *(optional)* – for model deployment  
 
 ---
